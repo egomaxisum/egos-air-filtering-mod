@@ -1,0 +1,10 @@
+{
+	"name": "egosairfiltering",
+	"version": "0.0.1",
+	"title": "ego's Air Filtering",
+	"author": "egomaxisum",
+	"description": "Are you tired by natives attacking you because of pollution? Or do you want to improve yout economic footprint in Factorio? Just filter the pollution out of the air!\nInspired by d4rksh4de's mod request on the forum:\n https://forums.factorio.com/viewtopic.php?f=33&t=33383 \nATTENTION:\nThis mod is still in very early developement, and I am new to programming, it may tage some time until every functionality is implemented (entity textures are still missing and currently using stock textures), but I am doing my best to continue developing this mod.",
+	"homepage": "GitHub page will be added soon.",
+	"dependencies": ["base >= 0.13.00"],
+	"factorio_version": "0.13"
+}
